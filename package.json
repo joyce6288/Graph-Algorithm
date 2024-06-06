@@ -1,0 +1,26 @@
+{
+  "name": "graphlib-js",
+  "version": "1.0.0",
+  "description": "A JavaScript library for graph data structure with algorithms like BFS, DFS, and Dijkstra's.",
+  "main": "graph.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joyce628/graphlib-js.git"
+  },
+  "keywords": ["graph", "data structure", "algorithms", "bfs", "dfs", "dijkstra"],
+  "author": {
+    "name": "Joyce T",
+    "url": "https://github.com/joyce628"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joyce628/graphlib-js/issues"
+  },
+  "homepage": "https://github.com/joyce628/graphlib-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
